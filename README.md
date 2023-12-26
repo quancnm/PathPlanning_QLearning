@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-This README provides an overview of the project that combines Conflict-Based Search (CBS) and Q-Learning algorithms for solving the path planning problem in a dynamic environment with multiple robots. The project aims to develop an efficient and adaptive solution to navigate multiple robots while avoiding conflicts and adapting to changing conditions.
+The project combines Conflict-Based Search (CBS) and Q-Learning algorithms for solving the path planning problem in a dynamic environment with multiple robots. The project aims to develop an efficient and adaptive solution to navigate multiple robots while avoiding conflicts and adapting to changing conditions.
 
 ## Features
 
